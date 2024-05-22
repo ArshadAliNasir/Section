@@ -156,6 +156,7 @@ text-align: center;
             line-height: 30.5px;
         }
     .Section-Right{
+        margin-top: 30px;
         width: 100%;
     }
     .images {
@@ -230,6 +231,7 @@ text-align: center;
         }
     .Section-Right
     {
+        margin-top: 30px;
         width: 100%;
     }
     .images 
